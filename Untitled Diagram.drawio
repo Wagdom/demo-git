@@ -1,1 +1,118 @@
-<mxfile host="app.diagrams.net" modified="2022-09-14T05:05:16.542Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.33" version="20.3.0" etag="9cBaNdfkvj3HheZVhkzy" type="github"><diagram id="tkx3C987YAY7q8ADnb0E">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-09-14T09:05:00.009Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.33" etag="uKxZTE1CqQndRWRlOMgn" version="20.3.0" type="github">
+  <diagram id="tkx3C987YAY7q8ADnb0E" name="Page-1">
+    <mxGraphModel dx="1185" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Ij5x_xL0lT77cKpvu-Io-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ij5x_xL0lT77cKpvu-Io-2" target="Ij5x_xL0lT77cKpvu-Io-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ij5x_xL0lT77cKpvu-Io-2" value="begin" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="184.5" y="60" width="78" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="Ij5x_xL0lT77cKpvu-Io-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ij5x_xL0lT77cKpvu-Io-4" target="Ij5x_xL0lT77cKpvu-Io-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ij5x_xL0lT77cKpvu-Io-4" value="First time checking the handover device&#39;s condition." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="113" y="105" width="221" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="Ij5x_xL0lT77cKpvu-Io-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ij5x_xL0lT77cKpvu-Io-6" target="Ij5x_xL0lT77cKpvu-Io-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ij5x_xL0lT77cKpvu-Io-6" value="Acquiring a machine layout" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="113" y="157" width="220.5" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="Ij5x_xL0lT77cKpvu-Io-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ij5x_xL0lT77cKpvu-Io-8" target="Ij5x_xL0lT77cKpvu-Io-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ij5x_xL0lT77cKpvu-Io-8" value="Apply new layout and all machine&#39;s general conditional&amp;nbsp;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="113.25" y="210" width="220.5" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="Ij5x_xL0lT77cKpvu-Io-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ij5x_xL0lT77cKpvu-Io-10" target="Ij5x_xL0lT77cKpvu-Io-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ij5x_xL0lT77cKpvu-Io-10" value="PC setting" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="113.5" y="263" width="220.5" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="Ij5x_xL0lT77cKpvu-Io-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ij5x_xL0lT77cKpvu-Io-12" target="Ij5x_xL0lT77cKpvu-Io-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ij5x_xL0lT77cKpvu-Io-12" value="Hook-up machine part" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="113.25" y="316" width="220.5" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="Ij5x_xL0lT77cKpvu-Io-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ij5x_xL0lT77cKpvu-Io-14" target="Ij5x_xL0lT77cKpvu-Io-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ij5x_xL0lT77cKpvu-Io-14" value="Machine setting" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="113.5" y="369" width="220.5" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="Ij5x_xL0lT77cKpvu-Io-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ij5x_xL0lT77cKpvu-Io-16" target="Ij5x_xL0lT77cKpvu-Io-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ij5x_xL0lT77cKpvu-Io-16" value="MBO condition check (MBO check list)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="113" y="422" width="220.5" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="Ij5x_xL0lT77cKpvu-Io-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ij5x_xL0lT77cKpvu-Io-18" target="Ij5x_xL0lT77cKpvu-Io-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ij5x_xL0lT77cKpvu-Io-18" value="MBO report" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="113.5" y="475" width="220.5" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="Ij5x_xL0lT77cKpvu-Io-19" value="Main run" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="113" y="528" width="220.5" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="Ij5x_xL0lT77cKpvu-Io-20" value="General" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="50" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ij5x_xL0lT77cKpvu-Io-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ij5x_xL0lT77cKpvu-Io-21" target="Ij5x_xL0lT77cKpvu-Io-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ij5x_xL0lT77cKpvu-Io-21" value="Acquiring a machine layout" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="23" width="234.5" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="Ij5x_xL0lT77cKpvu-Io-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ij5x_xL0lT77cKpvu-Io-22" target="Ij5x_xL0lT77cKpvu-Io-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ij5x_xL0lT77cKpvu-Io-22" value="Confirm new layout" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="83" width="234.5" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="Ij5x_xL0lT77cKpvu-Io-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ij5x_xL0lT77cKpvu-Io-24" target="Ij5x_xL0lT77cKpvu-Io-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ij5x_xL0lT77cKpvu-Io-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ij5x_xL0lT77cKpvu-Io-24" target="Ij5x_xL0lT77cKpvu-Io-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ij5x_xL0lT77cKpvu-Io-24" value="Request IPs address" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="150" width="234.5" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="Ij5x_xL0lT77cKpvu-Io-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ij5x_xL0lT77cKpvu-Io-26" target="Ij5x_xL0lT77cKpvu-Io-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ij5x_xL0lT77cKpvu-Io-26" value="Old machine - same area" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="223" width="234" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ij5x_xL0lT77cKpvu-Io-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ij5x_xL0lT77cKpvu-Io-27" target="Ij5x_xL0lT77cKpvu-Io-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ij5x_xL0lT77cKpvu-Io-27" value="New machine or old machine - different area" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="223" width="244" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ij5x_xL0lT77cKpvu-Io-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ij5x_xL0lT77cKpvu-Io-30" target="Ij5x_xL0lT77cKpvu-Io-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ij5x_xL0lT77cKpvu-Io-30" value="Use the same IPs" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="309" width="234" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ij5x_xL0lT77cKpvu-Io-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ij5x_xL0lT77cKpvu-Io-31" target="Ij5x_xL0lT77cKpvu-Io-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ij5x_xL0lT77cKpvu-Io-31" value="Request new IPs" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="309.5" width="244" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ij5x_xL0lT77cKpvu-Io-32" value="Contact PE for hooking up&amp;nbsp;compressed air, power&amp;nbsp; line" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="422" width="230" height="48" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
