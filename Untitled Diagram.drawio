@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-14T09:05:00.009Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.33" etag="uKxZTE1CqQndRWRlOMgn" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-14T09:34:38.985Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.33" etag="rOubq1aasvZxk2IwlMSE" version="20.3.0" type="github">
   <diagram id="tkx3C987YAY7q8ADnb0E" name="Page-1">
     <mxGraphModel dx="1185" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -109,8 +109,20 @@
         <mxCell id="Ij5x_xL0lT77cKpvu-Io-31" value="Request new IPs" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1050" y="309.5" width="244" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="Ij5x_xL0lT77cKpvu-Io-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ij5x_xL0lT77cKpvu-Io-32" target="Ij5x_xL0lT77cKpvu-Io-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ij5x_xL0lT77cKpvu-Io-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ij5x_xL0lT77cKpvu-Io-32" target="Ij5x_xL0lT77cKpvu-Io-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Ij5x_xL0lT77cKpvu-Io-32" value="Contact PE for hooking up&amp;nbsp;compressed air, power&amp;nbsp; line" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="422" width="230" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="Ij5x_xL0lT77cKpvu-Io-40" value="Old machine: Change machine information in System(LAS, GMES,EVM,MMD)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="530" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ij5x_xL0lT77cKpvu-Io-42" value="New machine: Create machine information in System(LAS, GMES, EVM, MMD)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="530" width="240" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
