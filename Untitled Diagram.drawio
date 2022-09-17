@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-17T01:42:34.201Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.42" etag="HWybWzGGdX2Lf3k5ieCo" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-17T03:51:34.392Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.42" etag="1bbOpXX9VdISauYB80lK" version="20.3.0" type="github">
   <diagram id="tkx3C987YAY7q8ADnb0E" name="Page-1">
     <mxGraphModel dx="1672" dy="934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -100,11 +100,29 @@
         <mxCell id="jUkNztIPjkWnS2XdJ5_e-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ij5x_xL0lT77cKpvu-Io-32" target="Ij5x_xL0lT77cKpvu-Io-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ij5x_xL0lT77cKpvu-Io-32" value="Transfer machine and Hook up&amp;nbsp; compressed air, power&amp;nbsp; line" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Ij5x_xL0lT77cKpvu-Io-32" value="Transfer machine and hook up&amp;nbsp; compressed air line, power&amp;nbsp; line" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="853.25" y="157" width="227.75" height="48" as="geometry" />
         </mxCell>
         <mxCell id="Ij5x_xL0lT77cKpvu-Io-42" value="Create or change machine information in System(LAS, GMES, EVM, MMD)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="852.25" y="475" width="227.75" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="jUkNztIPjkWnS2XdJ5_e-10" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;1&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="30" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jUkNztIPjkWnS2XdJ5_e-11" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;2&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="89.5" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jUkNztIPjkWnS2XdJ5_e-12" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;3&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="170" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jUkNztIPjkWnS2XdJ5_e-13" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;4&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="249.5" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jUkNztIPjkWnS2XdJ5_e-15" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;6&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="508" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jUkNztIPjkWnS2XdJ5_e-16" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;5&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="375.5" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
