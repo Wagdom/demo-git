@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-19T02:59:59.213Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.42" etag="zEK4OK4p_CAb2ZMa8Mu6" version="20.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-19T04:07:12.902Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.42" etag="t7HvwnAXqgrIZzMLdEuq" version="20.3.2" type="github">
   <diagram id="tkx3C987YAY7q8ADnb0E" name="Page-1">
-    <mxGraphModel dx="1421" dy="1894" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1184" dy="1762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -27,13 +27,13 @@
         <mxCell id="Ij5x_xL0lT77cKpvu-Io-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Ij5x_xL0lT77cKpvu-Io-10" target="Ij5x_xL0lT77cKpvu-Io-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ij5x_xL0lT77cKpvu-Io-10" value="Set up PC" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Ij5x_xL0lT77cKpvu-Io-10" value="Setup PC" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="113.5" y="151" width="220.5" height="33" as="geometry" />
         </mxCell>
         <mxCell id="Ij5x_xL0lT77cKpvu-Io-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Ij5x_xL0lT77cKpvu-Io-12" target="Ij5x_xL0lT77cKpvu-Io-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ij5x_xL0lT77cKpvu-Io-12" value="Set up tester and handler" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Ij5x_xL0lT77cKpvu-Io-12" value="Setup tester and handler" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="113.25" y="204" width="220.5" height="33" as="geometry" />
         </mxCell>
         <mxCell id="Ij5x_xL0lT77cKpvu-Io-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Ij5x_xL0lT77cKpvu-Io-14" target="Ij5x_xL0lT77cKpvu-Io-16" edge="1">
@@ -75,7 +75,7 @@
         <mxCell id="jUkNztIPjkWnS2XdJ5_e-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Ij5x_xL0lT77cKpvu-Io-24" target="Ij5x_xL0lT77cKpvu-Io-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ij5x_xL0lT77cKpvu-Io-24" value="Set up IPs address" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Ij5x_xL0lT77cKpvu-Io-24" value="Setup IPs address" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="850.25" y="243" width="234.5" height="33" as="geometry" />
         </mxCell>
         <mxCell id="jUkNztIPjkWnS2XdJ5_e-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Ij5x_xL0lT77cKpvu-Io-26" target="Ij5x_xL0lT77cKpvu-Io-42" edge="1">
@@ -146,7 +146,7 @@
         <mxCell id="9_4sqERrTm9TSVRWzqGL-6" value="Check multi tester, I2C connection" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="425" y="863" width="234.5" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="9_4sqERrTm9TSVRWzqGL-7" value="Request and set up Agent PC(Smart factory)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9_4sqERrTm9TSVRWzqGL-7" value="Request and setup Agent PC(Smart factory)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="970" width="245" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9_4sqERrTm9TSVRWzqGL-9" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -220,11 +220,53 @@
         <mxCell id="9_4sqERrTm9TSVRWzqGL-35" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;8&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="50" y="1207" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="9_4sqERrTm9TSVRWzqGL-36" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;Set up PC&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="940" y="580" width="320" height="70" as="geometry" />
+        <mxCell id="9_4sqERrTm9TSVRWzqGL-36" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;Setting PC and Agent PC&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1115" y="570" width="320" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="9_4sqERrTm9TSVRWzqGL-37" value="Check multi tester, I2C connection" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="983.25" y="690" width="234.5" height="33" as="geometry" />
+        <mxCell id="9_4sqERrTm9TSVRWzqGL-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9_4sqERrTm9TSVRWzqGL-37" target="9_4sqERrTm9TSVRWzqGL-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9_4sqERrTm9TSVRWzqGL-37" value="Scan Virus" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="992.75" y="743" width="234.5" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="9_4sqERrTm9TSVRWzqGL-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9_4sqERrTm9TSVRWzqGL-38" target="9_4sqERrTm9TSVRWzqGL-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9_4sqERrTm9TSVRWzqGL-38" value="Install&amp;nbsp; ECM, EVA, Window patch, EPS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="992.75" y="808" width="234.5" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="9_4sqERrTm9TSVRWzqGL-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9_4sqERrTm9TSVRWzqGL-39" target="9_4sqERrTm9TSVRWzqGL-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9_4sqERrTm9TSVRWzqGL-39" value="Request IT check PC condition" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="992.75" y="880" width="234.5" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="9_4sqERrTm9TSVRWzqGL-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9_4sqERrTm9TSVRWzqGL-40" target="9_4sqERrTm9TSVRWzqGL-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9_4sqERrTm9TSVRWzqGL-40" value="Approve?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="999.63" y="955" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9_4sqERrTm9TSVRWzqGL-42" value="Connect LAN" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="992.38" y="1079" width="234.5" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="9_4sqERrTm9TSVRWzqGL-43" value="Connect LAN" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="993.13" y="1164" width="234.5" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="9_4sqERrTm9TSVRWzqGL-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9_4sqERrTm9TSVRWzqGL-44" target="9_4sqERrTm9TSVRWzqGL-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9_4sqERrTm9TSVRWzqGL-44" value="Request IT on 3S system" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="743" width="234.5" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="9_4sqERrTm9TSVRWzqGL-45" value="Setting PC" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="992.75" y="682" width="234.5" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="9_4sqERrTm9TSVRWzqGL-46" value="Setting Agent PC" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="681" width="234.5" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="9_4sqERrTm9TSVRWzqGL-47" value="Setting Agent PC" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="809" width="234.5" height="33" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
