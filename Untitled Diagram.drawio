@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-19T02:45:28.945Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.42" etag="Bw_CAqHxwbDxIwNjHstx" version="20.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-19T02:59:59.213Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.42" etag="zEK4OK4p_CAb2ZMa8Mu6" version="20.3.2" type="github">
   <diagram id="tkx3C987YAY7q8ADnb0E" name="Page-1">
     <mxGraphModel dx="1421" dy="1894" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -16,50 +16,46 @@
         <mxCell id="Ij5x_xL0lT77cKpvu-Io-4" value="Check the current machine condition" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="113" y="45" width="221" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="Ij5x_xL0lT77cKpvu-Io-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Ij5x_xL0lT77cKpvu-Io-6" target="Ij5x_xL0lT77cKpvu-Io-8" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Ij5x_xL0lT77cKpvu-Io-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Ij5x_xL0lT77cKpvu-Io-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="223.5999999999999" y="150" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="Ij5x_xL0lT77cKpvu-Io-6" value="Check layout and IPs" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Ij5x_xL0lT77cKpvu-Io-6" value="Check machine layout and IPs" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="113" y="97" width="220.5" height="33" as="geometry" />
-        </mxCell>
-        <mxCell id="Ij5x_xL0lT77cKpvu-Io-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Ij5x_xL0lT77cKpvu-Io-8" target="Ij5x_xL0lT77cKpvu-Io-10" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Ij5x_xL0lT77cKpvu-Io-8" value="Hook up and IT condition" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="113.25" y="150" width="220.5" height="33" as="geometry" />
         </mxCell>
         <mxCell id="Ij5x_xL0lT77cKpvu-Io-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Ij5x_xL0lT77cKpvu-Io-10" target="Ij5x_xL0lT77cKpvu-Io-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ij5x_xL0lT77cKpvu-Io-10" value="Set up PC" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="113.5" y="203" width="220.5" height="33" as="geometry" />
+          <mxGeometry x="113.5" y="151" width="220.5" height="33" as="geometry" />
         </mxCell>
         <mxCell id="Ij5x_xL0lT77cKpvu-Io-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Ij5x_xL0lT77cKpvu-Io-12" target="Ij5x_xL0lT77cKpvu-Io-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ij5x_xL0lT77cKpvu-Io-12" value="Set up tester and handler" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="113.25" y="256" width="220.5" height="33" as="geometry" />
+          <mxGeometry x="113.25" y="204" width="220.5" height="33" as="geometry" />
         </mxCell>
         <mxCell id="Ij5x_xL0lT77cKpvu-Io-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Ij5x_xL0lT77cKpvu-Io-14" target="Ij5x_xL0lT77cKpvu-Io-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ij5x_xL0lT77cKpvu-Io-14" value="Final inspection" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="113.5" y="309" width="220.5" height="33" as="geometry" />
+          <mxGeometry x="113.5" y="257" width="220.5" height="33" as="geometry" />
         </mxCell>
         <mxCell id="Ij5x_xL0lT77cKpvu-Io-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Ij5x_xL0lT77cKpvu-Io-16" target="Ij5x_xL0lT77cKpvu-Io-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ij5x_xL0lT77cKpvu-Io-16" value="MBO and check list" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="113" y="362" width="220.5" height="33" as="geometry" />
+          <mxGeometry x="113" y="310" width="220.5" height="33" as="geometry" />
         </mxCell>
         <mxCell id="Ij5x_xL0lT77cKpvu-Io-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Ij5x_xL0lT77cKpvu-Io-18" target="Ij5x_xL0lT77cKpvu-Io-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ij5x_xL0lT77cKpvu-Io-18" value="Check main build condition" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="113.5" y="415" width="220.5" height="33" as="geometry" />
+          <mxGeometry x="113.5" y="363" width="220.5" height="33" as="geometry" />
         </mxCell>
         <mxCell id="Ij5x_xL0lT77cKpvu-Io-19" value="Run build" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="113" y="468" width="220.5" height="33" as="geometry" />
+          <mxGeometry x="113" y="416" width="220.5" height="33" as="geometry" />
         </mxCell>
         <mxCell id="Ij5x_xL0lT77cKpvu-Io-20" value="General" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="100" y="-10" width="60" height="30" as="geometry" />
@@ -223,6 +219,12 @@
         </mxCell>
         <mxCell id="9_4sqERrTm9TSVRWzqGL-35" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;8&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="50" y="1207" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9_4sqERrTm9TSVRWzqGL-36" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;Set up PC&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="940" y="580" width="320" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="9_4sqERrTm9TSVRWzqGL-37" value="Check multi tester, I2C connection" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="983.25" y="690" width="234.5" height="33" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
